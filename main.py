@@ -66,7 +66,7 @@ def img_save():
 def client():
     '''百度api key'''
     l = []
-    l.append(AipOcr('11567868', 'BkQY9zcNhAESQQEGb4eh1rhp', 'iLkBtC76EXTb2tBjweCaNgTmxhVqv2NV'))
+    l.append(AipOcr('', '', ''))
     return random.choice(l)
 
 
