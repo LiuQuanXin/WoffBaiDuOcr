@@ -10,3 +10,10 @@ woff字体百度ocr api识别
 {"&#xf51f": "值"}
 
 ```
+
+# Woff2Ttf
+
+```
+java -jar woff2ttf/woff2ttf.jar -in xxx.woff  [-out xxx.ttf]
+
+```
